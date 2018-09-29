@@ -40,7 +40,7 @@ def postear_en_facebook(message):
 
 	#----------------------------------------------------
 	# Escribe las credenciales para entrar a tu cuenta
-	# de Twitter
+	# de Facebook
 	#----------------------------------------------------
 	email='Escribe tu correo de facebook'         # Debes dejar las comillas
 	password='Escribe tu contraseña de facebook'  # Debes dejar las comillas
